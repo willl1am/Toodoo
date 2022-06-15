@@ -1,0 +1,81 @@
+pergunta13_index.html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="https://github.com/W1LL1Z1TO">
+    <meta name="keyword" conteúdo="toodoo, contratado">
+    <title>toodoo</title>
+    <link rel="shortcut icon" href="favicon.ico" tipo="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+</head>
+<body>
+    <link rel="shortcut icon" href="favicon.ico" tipo="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <h1>
+        
+    <section>
+        <div>
+            <table>
+                <tr>
+                    <th>Nome</th>
+                    <th>Idade</th>
+                    <th>Genêro</th>
+                </tr>
+                <tr>
+                    <td>joao</td>
+                    <td>12</td>
+                    <td>Masculino</td>
+                </tr>
+                <tr>
+                    <td>fernanda</td>
+                    <td>16</td>
+                    <td>Feminimo</td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td>junior</td>
+                    <td>16</td>
+                    <td>Masculino</td>
+                </tr>
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <th>Nome</th>
+                                <td>joao</td>
+                                <td>fernanda</td>
+                                <td>junior</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table>
+                            <tr>
+                                <th>Idade</th>
+                                
+                                <td>12</td>
+                                <td>16</td>
+                                <td>16</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table>
+                            <th>Genêro</th>
+                            <td>Masculino</td>
+                            <td>Feminino</td>
+                            <td>Masculino</td>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+    <script src="script/script.js"></script>
+    </h1>
+</body>
+</html>
