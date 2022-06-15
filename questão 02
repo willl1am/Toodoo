@@ -1,0 +1,47 @@
+perguntao_02/index.html
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="https://github.com/W1LL1Z1TO">
+    <meta name="keyword" conteúdo="toodoo, contratado">
+    <title>toodoo</title>
+    <style> *{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: 0;
+    box-sizing: border-box;
+
+    list-style: none;
+    text-decoration: none;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+
+    transition: inherit;
+}
+
+header{
+    /* Questão 2 */
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* Questão 2 */
+    
+    margin: 20px auto;
+    width: calc(100% - 75px);
+    min-width: 350px;
+    text-align: center;
+    line-height: 1.25em;
+} </style>
+</head>
+<body>
+    <link rel="ícone de atalho" href="favicon.ico" tipo="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <h1>
+        <p>Olá, o que está fazendo? Este texto está com a fonte arial, em negrito e na caixa alta!</p>
+        <script src="script/script.js"></script>
+    </h1>
+</body>
+</html>
