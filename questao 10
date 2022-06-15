@@ -93,9 +93,6 @@ input{
     <link rel="stylesheet" href="estilo/estilo.css">
     <h1>
         <h3>Olhe para o mundo!</h3>
-        <label for="sabor"><p>Informe seu sabor de sorvete favorito:</p></label>
-        <input type="text" name="sabor" id="sabor">
-        <div class="button"></div>
     </div>
 </section>
 <script>
