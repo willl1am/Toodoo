@@ -1,0 +1,80 @@
+perguntao_03/index.html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="https://github.com/W1LL1Z1TO">
+    <meta name="keyword" conteúdo="toodoo, contratado">
+    <style>*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: 0;
+    box-sizing: border-box;
+
+    list-style: none;
+    text-decoration: none;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+
+    transition: inherit;
+}
+
+section{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.button_container{
+    border: solid 1px #000;
+    border-radius: 5px;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    transition: .6s;
+}
+.button{
+    height: 50px;
+    width: 125px;
+
+    display: flex;
+}
+.button::after{
+    content: '';
+    display: block;
+    height: 150px;
+    width: 125px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    transition: .3s;
+    background-image: linear-gradient(#ea005a 10%, #0d076d 100%);
+}
+.button:hover::after{
+    top: -100px;
+}
+.button:active::after{
+    opacity: .8;
+}
+.button > p{
+    margin: auto;
+    text-transform: uppercase;
+    color: white;
+    z-index: 1;
+}  </style>
+    <title>toodoo</title>
+</head>
+<body>
+    <link rel="ícone de atalho" href="favicon.ico" tipo="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <h1>
+        <script src="script/script.js"></script>
+        <a href="#" class="button_container">
+            <div class="button" onclick="alert('alerta click')"><p>click</p></div>
+            
+    </h1>
+</body>
+</html>
