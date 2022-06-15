@@ -1,0 +1,50 @@
+perguntao_6/index.html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="https://github.com/W1LL1Z1TO">
+    <meta name="keyword" conteúdo="toodoo">
+   <style>*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: 0;
+    box-sizing: border-box;
+
+    list-style: none;
+    text-decoration: none;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+
+    transition: inherit;
+}
+
+section{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+p{
+    margin: auto;
+    text-align: center;
+}  </style>
+   <title>toodoo</title>
+    <link rel="shortcut icon" href="favicon.ico" tipo="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+</head>
+<body>
+    <link rel="shortcut icon" href="favicon.ico" tipo="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <h1>
+        
+        <p>
+            <link rel="stylesheet" href="style.css">
+                   </p>
+               </secção>
+               <script src="script/script.js"></script>
+    </h1>
+</body>
+</html>
